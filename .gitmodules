@@ -1,0 +1,3 @@
+[submodule "frontend/vanilla-js/stretchly"]
+	path = frontend/vanilla-js/stretchly
+	url = https://github.com/hovancik/stretchly.git
